@@ -1,0 +1,771 @@
+# Translation of Plugins - LightStart &#8211; Maintenance Mode, Coming Soon and Landing Page Builder - Stable (latest release) in Persian
+# This file is distributed under the same license as the Plugins - LightStart &#8211; Maintenance Mode, Coming Soon and Landing Page Builder - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-05-04 08:39:09+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: fa\n"
+"Project-Id-Version: Plugins - LightStart &#8211; Maintenance Mode, Coming Soon and Landing Page Builder - Stable (latest release)\n"
+
+#: includes/classes/wp-maintenance-mode-admin.php:203
+msgctxt "image_uploader default title"
+msgid "Upload Image"
+msgstr "ارسال تصویر"
+
+#: includes/classes/wp-maintenance-mode-admin.php:204
+msgctxt "image_uploader default button_text"
+msgid "Choose Image"
+msgstr "انتخاب تصویر"
+
+#: includes/classes/wp-maintenance-mode.php:257
+msgctxt "<title> default"
+msgid "Maintenance mode"
+msgstr "حالت در دست تعمیر"
+
+#: includes/classes/wp-maintenance-mode.php:258
+msgctxt "heading default"
+msgid "Maintenance mode"
+msgstr "حالت در دست تعمیر"
+
+#: views/settings.php:384
+msgid "Footer links"
+msgstr "پیوندهای پاورقی"
+
+#: views/settings.php:426
+msgctxt "upload background button"
+msgid "Upload"
+msgstr "ارسال"
+
+#: includes/classes/wp-maintenance-mode.php:748
+msgctxt "<meta> keywords default"
+msgid "Maintenance Mode"
+msgstr "حالت در دست تعمیر"
+
+#: views/settings.php:824
+msgid "If you want to see the list of subscribers, go to Modules &raquo; Subscribe &raquo; Export as CSV."
+msgstr "اگر شما می‌خواهید لیست مشترکان را ببینید، به قسمت ماژول‌ها، اشتراک و خروجی بصورت CSV بروید."
+
+#: views/settings.php:1065
+msgid "Subscribe form 'tail'"
+msgstr "مشترک شدن فرم 'ما'"
+
+#: views/settings.php:1060 views/settings.php:1069
+msgid "This will be shown together with the acceptance checkbox below the form"
+msgstr "این همراه با کادر تأیید در زیر فرم نشان داده می شود"
+
+#: views/settings.php:1056
+msgid "Contact form 'tail'"
+msgstr "فرم تماس با 'ما'"
+
+#: views/settings.php:1034
+msgid "P. Policy page link"
+msgstr "لینک برگه حفظ حریم خصوصی"
+
+#: views/settings.php:1029
+msgid "Label the link that will be shown on frontend footer"
+msgstr "برچسب لینک که در پانوشت ظاهر نمایش داده مس شود"
+
+#: views/settings.php:1025
+msgid "Link name"
+msgstr "نام لینک"
+
+#: views/settings.php:1011
+msgid "Here we added some generic texts that you may want to review, change or remove."
+msgstr "اینجا ما متونی را اضافه کرده ایم که شاید بخواهید آن را مطالعه، تغییر و یا حذف کنید."
+
+#: views/settings.php:1010
+msgid "To make the plugin GDPR compliant, fill in the details and enable this section."
+msgstr "برای سازگاری این افزونه با GDPR ،وارد جزئیات شده و این قابلیت را فعال کنید."
+
+#: views/settings.php:66
+msgid "GDPR"
+msgstr "GDPR"
+
+#: includes/classes/wp-maintenance-mode.php:329
+msgid "This form collects your email so that we can add you to our newsletter list. Check out our <a href=\"#\">Privacy Policy</a> page to fully understand how we protect and manage your submitted data."
+msgstr "این فرم ایمیل شما را نگهداری مکند تا بتوانیم لیست اخبار را برایتان ارسال کنیم. برگه <a href=\"#\">حفظ حریم خصوصی</a> مارا مطالعه کنید تا متوجه شوید ما چگونه از آن محافظت می کنیم."
+
+#: includes/classes/wp-maintenance-mode.php:328
+msgid "This form collects your name and email so that we can reach you back. Check out our <a href=\"#\">Privacy Policy</a> page to fully understand how we protect and manage your submitted data."
+msgstr "این فرم نام و ایمیل شما را نگهداری میکند تا بتوانیم با شما در ارتباط باشیم. برگه <a href=\"#\">حفظ حریم خصوصی</a> ما را کامل مطالعه کنید تا متوجه شوید چگونه از اطلاعات شما نگهداری میکنیم."
+
+#: includes/classes/wp-maintenance-mode.php:325
+msgid "Privacy Policy"
+msgstr "حفظ حریم خصوصی"
+
+#: includes/classes/wp-maintenance-mode-admin.php:1218
+msgid "No privacy features detected for your WordPress version. Update WordPress to get this field automatically filled in or type in the URL that points to your privacy policy page."
+msgstr "ویژگی حفظ حریم خصوصی در نسخه وردپرس شما شناسایی نشد. وردپرس را بروزرسانی کنید تا بطور خودکار ایجاد شود یا آدرس صفحه ای که حفظ حریم خصوصی به آن اشاره میکند را وارد کنید."
+
+#: includes/classes/wp-maintenance-mode-admin.php:1205
+msgid "Your WordPress version supports Privacy settings but you haven't set any privacy policy page yet. Go to Settings ➡ Privacy to set one."
+msgstr "نسخه وردپرس شما از تنظیمات حریم خصوصی پشتیبانی می کند اما شما هنوز برگه ای برای حفظ حریم خصوصی نساخته اید. به تنظیمات -> حریم خصوصی بروید."
+
+#: views/settings.php:377
+msgid "This text will not be shown when the bot feature is enabled."
+msgstr "این متن زمانی که ویژگی ربات فعال است نمایش داده نمی شود."
+
+#: views/settings.php:988
+msgid "Message 10"
+msgstr "پیام 10"
+
+#: views/settings.php:980
+msgid "Message 9"
+msgstr "پیام 9"
+
+#: views/settings.php:972
+msgid "(click on button two)"
+msgstr "( کلیک روی دکمه دوم)"
+
+#: views/settings.php:954 views/settings.php:980 views/settings.php:988
+msgid "(click on button one)"
+msgstr "( کلیک روی دکمه اول)"
+
+#: views/settings.php:954 views/settings.php:972
+msgid "Message 8"
+msgstr "پیام 8"
+
+#: views/settings.php:947
+msgid "Edit button two"
+msgstr "ویرایش دکمه دوم"
+
+#: views/settings.php:943
+msgid "Edit button one"
+msgstr "ویرایش دکمه اول"
+
+#: views/settings.php:930
+msgid "Message 7"
+msgstr "پیام 7"
+
+#: views/settings.php:922
+msgid "Message 6"
+msgstr "پیام 6"
+
+#: views/settings.php:914
+msgid "Message 5"
+msgstr "پیام 5"
+
+#: views/settings.php:906
+msgid "Message 4"
+msgstr "پیام 4"
+
+#: views/settings.php:901 views/settings.php:967
+msgid "Edit the placeholder's text"
+msgstr "متن جانگهدار را ویرایش کنید"
+
+#: views/settings.php:896 views/settings.php:938 views/settings.php:962
+msgid "Response"
+msgstr "پاسخ"
+
+#: views/settings.php:888
+msgid "Message 3"
+msgstr "پیام 3"
+
+#: views/settings.php:880
+msgid "Message 2"
+msgstr "پیام 2"
+
+#: views/settings.php:872
+msgid "Message 1"
+msgstr "پیام 1"
+
+#: views/settings.php:866
+msgid "Customize Messages"
+msgstr "سفارشی سازی پیام"
+
+#: views/settings.php:860
+msgid "A 512 x 512 px will work just fine."
+msgstr "سایز 512 در 512 پیکسل مناسب است."
+
+#: views/settings.php:847
+msgid "Upload avatar"
+msgstr "بارگذاری آواتار"
+
+#: views/settings.php:842
+msgid "This name will appear when the bot is typing."
+msgstr "این نام زمانی که ربات در حال نوشتن است نمایش داده می شود."
+
+#: views/settings.php:838
+msgid "Bot Name"
+msgstr "نام ربات"
+
+#: views/settings.php:823
+msgid "It is also ok if you don't fill in all the conversation steps if you don't need to."
+msgstr "همچنین اگر بخواهید همه مراحل مکالمه را پر کنید، لازم نیست."
+
+#: views/settings.php:822
+msgid "You may also want to use these wildcards: {bot_name} and {visitor_name} to make the conversation even more realistic."
+msgstr "شما ممکن است بخواهید از wildcards استفاده کنید: {bot_name} و {visitor_name} برای بهبود مکالمه خود با کاربران."
+
+#: views/settings.php:58
+msgid "Manage Bot"
+msgstr "مدیریت ربات"
+
+#: includes/classes/wp-maintenance-mode.php:800
+msgid "Please type in a valid email address."
+msgstr "لطفا یک آدرس ایمیل معتبر وارد کنید."
+
+#: includes/classes/wp-maintenance-mode.php:799
+msgid "Please type in your name."
+msgstr "لطفا نام خود را تایپ کنید."
+
+#: includes/classes/wp-maintenance-mode.php:320
+#: includes/classes/wp-maintenance-mode.php:803
+msgid "Type your email here…"
+msgstr "ایمیل خود را بنویسید…"
+
+#: includes/classes/wp-maintenance-mode.php:319
+msgid "Boring"
+msgstr "حوصله سر بر"
+
+#: includes/classes/wp-maintenance-mode.php:318
+msgid "Tell me more"
+msgstr "به من بیشتر بگو"
+
+#: includes/classes/wp-maintenance-mode.php:317
+#: includes/classes/wp-maintenance-mode.php:802
+msgid "Type your name here…"
+msgstr "اینجا اسم خود را بنویسید…"
+
+#: includes/classes/wp-maintenance-mode.php:314
+msgid "Have a great day!"
+msgstr "روز خوبی داشته باشی!"
+
+#: includes/classes/wp-maintenance-mode.php:313
+msgid "Got it! Thank you and see you soon here!"
+msgstr "گرفتمش! ممنونم به زودی در اینجا میبینمت!"
+
+#: includes/classes/wp-maintenance-mode.php:312
+msgid "Sad to hear that, {visitor_name} :( See you next time…"
+msgstr "از شنیدنش ناراحت شدم, {visitor_name} :( دفعه بعد میبینمت…"
+
+#: includes/classes/wp-maintenance-mode.php:311
+msgid "Cool! Please leave your email here and I will send you a message when it's ready."
+msgstr "عالیه! ایمیل خود را وارد کنید و من به زودی از طریق پیامی شما رو مطلع می کنم."
+
+#: includes/classes/wp-maintenance-mode.php:309
+msgid "I know, you are very excited to see it, but we need a few days to finish it."
+msgstr "میدونم، خیلی هیجان داری تا سایت را ببینی، اما مدت کوتاهی طول میکشه تا کار ما تمام شود."
+
+#: includes/classes/wp-maintenance-mode.php:306
+msgid "What is your name?"
+msgstr "نام شما چیست؟"
+
+#: includes/classes/wp-maintenance-mode.php:305
+msgid "I have just a few questions."
+msgstr "من فقط چند سوال دارم."
+
+#: includes/classes/wp-maintenance-mode-admin.php:941
+msgid "WPMM: The file data.js could not be written, the bot will not work correctly."
+msgstr "WPMM: پرونده data.js نباید نوشته شود، ربات نمی تواند به درستی کار کند."
+
+#: views/settings.php:1051
+msgid "Choose how the link will open."
+msgstr "انتخاب نحوه باز شدن پیوند"
+
+#: views/settings.php:776
+msgid "Enable IP anonymization?"
+msgstr "فعال‌سازی مخفی کردن IP"
+
+#: views/settings.php:1044
+msgid "P. Policy link target"
+msgstr "لینک هدف حفظ حریم خصوصی"
+
+#. translators: number of subscribers
+#: includes/classes/wp-maintenance-mode-admin.php:311
+msgctxt "ajax response"
+msgid "You have %d subscriber"
+msgid_plural "You have %d subscribers"
+msgstr[0] "شما %d مشترک دارید"
+
+#: includes/classes/wp-maintenance-mode.php:308
+msgid "How you can see, our website will be launched very soon."
+msgstr "چگونه می توانید ببینید، وب سایت ما خیلی زود راه اندازی می شود."
+
+#: includes/classes/wp-maintenance-mode-admin.php:1215
+msgid "Your Privacy page is pointing to a different URL in WordPress settings. If that's correct ignore this message, otherwise UPDATE VALUE TO NEW URL"
+msgstr "صفحه حریم خصوصی شما به URL دیگری در تنظیمات وردپرس اشاره دارد. اگر درست است این پیام را نادیده بگیرید ، در غیر این صورت مقدار را به URL جدید به روز کنید"
+
+#. translators: number of subscribers
+#: views/settings.php:575 views/settings.php:745
+msgctxt "settings page"
+msgid "You have %d subscriber"
+msgid_plural "You have %d subscribers"
+msgstr[0] "شما %d مشترک دارید"
+
+#: includes/classes/wp-maintenance-mode.php:310
+msgid "Would you like to be first to see it?"
+msgstr "دوست دارید اولین نفری باشید که آن را می بینید؟"
+
+#: includes/classes/wp-maintenance-mode.php:304
+msgid "Hey! My name is {bot_name}, I'm the owner of this website and I'd like to be your assistant here."
+msgstr "سلام! نام من {bot_name} است، من مالک سایت هستم و دوست دارم اینجا دستیار شما باشم."
+
+#: includes/classes/wp-maintenance-mode.php:307
+msgid "Nice to meet you here, {visitor_name}!"
+msgstr "خوشحالم که اینجا ملاقاتت کردم, {visitor_name}!"
+
+#: includes/classes/wp-maintenance-mode-admin.php:258
+#: includes/classes/wp-maintenance-mode-admin.php:305
+#: includes/classes/wp-maintenance-mode-admin.php:395
+#: includes/classes/wp-maintenance-mode-admin.php:628
+#: includes/classes/wp-maintenance-mode-admin.php:660
+#: includes/classes/wp-maintenance-mode-admin.php:694
+#: includes/classes/wp-maintenance-mode-admin.php:748
+#: includes/classes/wp-maintenance-mode-admin.php:768
+#: includes/classes/wp-maintenance-mode-admin.php:814
+#: includes/classes/wp-maintenance-mode-admin.php:845
+#: includes/classes/wp-maintenance-mode-admin.php:871
+#: includes/classes/wp-maintenance-mode-admin.php:1089
+#: includes/classes/wp-maintenance-mode.php:1292
+#: includes/classes/wp-maintenance-mode.php:1320
+msgid "Security check."
+msgstr "بازرسی امنیتی."
+
+#: includes/classes/wp-maintenance-mode-admin.php:253
+#: includes/classes/wp-maintenance-mode-admin.php:300
+#: includes/classes/wp-maintenance-mode-admin.php:385
+#: includes/classes/wp-maintenance-mode-admin.php:618
+#: includes/classes/wp-maintenance-mode-admin.php:655
+#: includes/classes/wp-maintenance-mode-admin.php:689
+#: includes/classes/wp-maintenance-mode-admin.php:743
+#: includes/classes/wp-maintenance-mode-admin.php:763
+#: includes/classes/wp-maintenance-mode-admin.php:809
+#: includes/classes/wp-maintenance-mode-admin.php:840
+#: includes/classes/wp-maintenance-mode-admin.php:866
+#: includes/classes/wp-maintenance-mode-admin.php:1084
+msgid "The nonce field must not be empty."
+msgstr "زمینه فعلی نباید خالی باشد."
+
+#: views/settings.php:803
+msgid "Allowed formats: UA-XXXXXXXX, UA-XXXXXXXX-XXXX, G-XXXXXXXX. Eg: UA-12345678-1 is valid"
+msgstr "ساختارهای مجاز: UA-XXXXXXXX, UA-XXXXXXXX-XXXX, G-XXXXXXXX. مانند: UA-12345678-1 معتبر است"
+
+#. translators: link to plugin reviews page on wp.org
+#: includes/classes/wp-maintenance-mode-admin.php:1137
+msgid "If you like <strong>Lightstart</strong> please leave us a %s rating. A huge thank you from WP Maintenance Mode makers in advance!"
+msgstr "اگر از افزونه <strong>حالت در دست تعمیر</strong> خوشتان آمد، لطفا به ما امتیاز %s دهید. طراحان این افزونه از صمیم قلب از شما سپاسگذارند!"
+
+#: views/settings.php:581 views/settings.php:751
+msgid "Empty subscribers list"
+msgstr "لیست مشترکین خالی"
+
+#: includes/classes/wp-maintenance-mode-admin.php:249
+#: includes/classes/wp-maintenance-mode-admin.php:296
+#: includes/classes/wp-maintenance-mode-admin.php:380
+#: includes/classes/wp-maintenance-mode-admin.php:613
+msgid "You do not have access to this resource."
+msgstr "شما به این منبع دسترسی ندارید."
+
+#: includes/classes/wp-maintenance-mode-admin.php:390
+#: includes/classes/wp-maintenance-mode-admin.php:623
+msgid "The tab slug must not be empty."
+msgstr "نامک زبانه نمی تواند خالی بماند."
+
+#: includes/classes/wp-maintenance-mode-admin.php:401
+#: includes/classes/wp-maintenance-mode-admin.php:634
+msgid "The tab slug must exist."
+msgstr "نامک زبانه باید موجود باشد."
+
+#: includes/classes/wp-maintenance-mode-admin.php:1081
+msgid "Notice key cannot be empty."
+msgstr "کلید اعلان نمی تواند خالی بماند."
+
+#. translators: name of the blog
+#: views/contact.php:54
+msgid "You have been contacted via %s."
+msgstr "شما تماس گرفته اید از طریق %s."
+
+#: views/contact.php:76
+msgid "Name:"
+msgstr "نام:"
+
+#: views/contact.php:88
+msgid "Email:"
+msgstr "ایمیل :"
+
+#: views/contact.php:103
+msgid "Content:"
+msgstr "محتوا:"
+
+#: views/maintenance.php:126 views/maintenance.php:190
+#: views/maintenance.php:193 views/maintenance.php:201
+#: views/maintenance.php:209
+msgid "This field is required."
+msgstr "این فیلد ضروری است."
+
+#: views/settings.php:101 views/settings.php:114
+msgid "Select role(s)"
+msgstr "انتخاب نقش"
+
+#: views/sidebar.php:23
+msgid "Website"
+msgstr "وبسایت"
+
+#: views/settings.php:90 views/settings.php:161 views/settings.php:174
+#: views/settings.php:508 views/settings.php:552 views/settings.php:599
+#: views/settings.php:703 views/settings.php:769 views/settings.php:780
+msgid "Yes"
+msgstr "بله"
+
+#: includes/classes/wp-maintenance-mode-admin.php:974
+msgid "Settings"
+msgstr "تنظیمات"
+
+#: views/settings.php:337 views/settings.php:559
+msgid "Text"
+msgstr "متن"
+
+#: views/maintenance.php:190 views/sidebar.php:16
+msgid "Name"
+msgstr "نام"
+
+#: views/maintenance.php:193
+msgid "E-mail"
+msgstr "ایمیل"
+
+#: includes/classes/wp-maintenance-mode-admin.php:714
+#: includes/classes/wp-maintenance-mode.php:224
+msgid "Maintenance Page"
+msgstr "حالت تعمیر و نگهداری"
+
+#: includes/classes/wp-maintenance-mode.php:260
+msgid "<p>Sorry for the inconvenience.<br />Our website is currently undergoing scheduled maintenance.<br />Thank you for your understanding.</p>"
+msgstr "<p>متاسفم برای ناراحتی.<br />سایت ما در حال بروزرسانی و تعمیر است.<br />پشتیبانی فارسی: یوسف زاده.</p>"
+
+#: includes/classes/wp-maintenance-mode.php:280
+msgid "Notify me when it's ready"
+msgstr "من را باخبر کن هروقت آماده بود"
+
+#: includes/classes/wp-maintenance-mode.php:1288
+#: includes/classes/wp-maintenance-mode.php:1323 views/maintenance.php:193
+msgid "Please enter a valid email address."
+msgstr "لطفا ایمیل معتبر وارد کنید."
+
+#: includes/classes/wp-maintenance-mode.php:1297
+msgid "You successfully subscribed. Thanks!"
+msgstr "با موفقیت مشترک شدید. با تشکر!"
+
+#: includes/classes/wp-maintenance-mode.php:1316
+msgid "All fields required."
+msgstr "همه فیلدها ضروری است."
+
+#: includes/classes/wp-maintenance-mode.php:1330
+msgid "Message via contact"
+msgstr "پیام از طریق تماس"
+
+#: includes/classes/wp-maintenance-mode.php:1355
+msgid "Your email was sent to the website administrator. Thanks!"
+msgstr "ایمیل شما به مدیریت سایت با موفقیت ارسال شد. باتشکر!"
+
+#: views/loginform.php:17
+msgid "Login"
+msgstr "ورود"
+
+#: views/maintenance.php:119
+msgid "your e-mail..."
+msgstr "ایمیل شما..."
+
+#: views/maintenance.php:121 views/settings.php:542 views/settings.php:732
+msgid "Subscribe"
+msgstr "اشتراک"
+
+#: views/maintenance.php:201
+msgid "Your message"
+msgstr "پیام شما"
+
+#: includes/classes/wp-maintenance-mode.php:804 views/maintenance.php:220
+msgid "Send"
+msgstr "ارسال"
+
+#: views/maintenance.php:227
+msgid "Contact us"
+msgstr "تماس با ما"
+
+#: views/maintenance.php:239
+msgid "Dashboard"
+msgstr "پیشخوان"
+
+#: includes/classes/wp-maintenance-mode-admin.php:1263
+msgid "Settings saved."
+msgstr "تنظیمات ذخیره شد."
+
+#: views/settings.php:38
+msgid "General"
+msgstr "عمومی"
+
+#: views/settings.php:45
+msgid "Design"
+msgstr "طراحی"
+
+#: views/settings.php:51
+msgid "Modules"
+msgstr "ماژول‌ها"
+
+#: views/network-settings.php:33 views/settings.php:77 views/settings.php:829
+#: views/settings.php:1016
+msgid "Status"
+msgstr "وضعیت"
+
+#: views/settings.php:80 views/settings.php:832 views/settings.php:1019
+msgid "Activated"
+msgstr "فعال شد"
+
+#: views/settings.php:81 views/settings.php:833 views/settings.php:1020
+msgid "Deactivated"
+msgstr "غیرفعال شد"
+
+#: views/settings.php:86
+msgid "Bypass for Search Bots"
+msgstr "دور زدن برای ربات های جستجو"
+
+#: views/settings.php:91 views/settings.php:162 views/settings.php:175
+#: views/settings.php:509 views/settings.php:553 views/settings.php:600
+#: views/settings.php:704 views/settings.php:770 views/settings.php:781
+msgid "No"
+msgstr "خیر"
+
+#: views/settings.php:98
+msgid "Backend Role"
+msgstr "نقش پشت کار"
+
+#: views/settings.php:111
+msgid "Frontend Role"
+msgstr "نقش روی کار"
+
+#: views/settings.php:124
+msgid "Robots Meta Tag"
+msgstr "برچسب متای ربات"
+
+#: views/settings.php:131
+msgid "The robots meta tag lets you use a granular, page-specific approach to control how an individual page should be indexed and served to users in search results."
+msgstr "برچسب متای ربات به شما اجازه میدهد که چگونگی ایندکس شدن صفحات را برای نمایش در موتورهای جستجو کنترل کنید."
+
+#: views/settings.php:136
+msgid "Redirection"
+msgstr "تغییر مسیر کردن"
+
+#: views/settings.php:145
+msgid "Exclude"
+msgstr "استثنا"
+
+#: views/settings.php:157
+msgid "Notice"
+msgstr "اطلاع"
+
+#: views/settings.php:170
+msgid "Dashboard link"
+msgstr "پیوند پیشخوان"
+
+#: views/network-settings.php:43 views/settings.php:184 views/settings.php:485
+#: views/settings.php:810 views/settings.php:998 views/settings.php:1076
+msgid "Save settings"
+msgstr "ذخیره تنظیمات"
+
+#: views/settings.php:185 views/settings.php:486 views/settings.php:811
+#: views/settings.php:999 views/settings.php:1077
+msgid "Reset settings"
+msgstr "بازنشانی تنظیمات"
+
+#: views/settings.php:320
+msgid "Title (HTML tag)"
+msgstr "عنوان ( برچسب HTML)"
+
+#: views/settings.php:328
+msgid "Heading"
+msgstr "سرعنوان"
+
+#: views/settings.php:400
+msgid "Choose type"
+msgstr "انتخاب نوع"
+
+#: views/settings.php:404
+msgid "Custom color"
+msgstr "رنگ سفارشی"
+
+#: views/settings.php:412
+msgid "Choose color"
+msgstr "انتخاب رنگ"
+
+#: views/settings.php:498
+msgid "Countdown"
+msgstr "شمارش معکوس"
+
+#: views/settings.php:504
+msgid "Show countdown?"
+msgstr "شمارش معکوس نمایش داده شود؟"
+
+#: views/settings.php:515
+msgid "Start date"
+msgstr "تاریخ شروع"
+
+#: views/settings.php:523
+msgid "Countdown (remaining time)"
+msgstr "شمارش معکوس (زمان باقی مانده)"
+
+#: views/settings.php:526
+msgid "Days"
+msgstr "روز"
+
+#: views/settings.php:527
+msgid "Hours"
+msgstr "ساعت"
+
+#: views/settings.php:528
+msgid "Minutes"
+msgstr "دقیقه"
+
+#: views/settings.php:533
+msgid "Color"
+msgstr "رنگ"
+
+#: views/settings.php:548
+msgid "Show subscribe?"
+msgstr "فرم اشتراک نمایش داده شود؟"
+
+#: views/settings.php:568 views/settings.php:738
+msgid "Stats"
+msgstr "آمار"
+
+#: views/settings.php:580 views/settings.php:750
+msgid "Export as CSV"
+msgstr "برون‌بری به فرمت CSV"
+
+#: views/settings.php:589
+msgid "Social Networks"
+msgstr "شبکه‌های اجتماعی"
+
+#: views/settings.php:595
+msgid "Show social networks?"
+msgstr "شبکه‌های اجتماعی نمایش داده شود؟"
+
+#: views/settings.php:606
+msgid "Links target?"
+msgstr "بازشدن لینک؟"
+
+#: views/settings.php:610 views/settings.php:1048
+msgid "New page"
+msgstr "صفحه جدید"
+
+#: views/settings.php:611 views/settings.php:1049
+msgid "Same page"
+msgstr "در همان صفحه"
+
+#: views/settings.php:613
+msgid "Choose how the links will open."
+msgstr "انتخاب کنید لینک چگونه باز شود."
+
+#: views/settings.php:693
+msgid "Contact"
+msgstr "تماس"
+
+#: views/settings.php:699
+msgid "Show contact?"
+msgstr "تماس نمایش داده شود؟"
+
+#: views/settings.php:710
+msgid "Email address"
+msgstr "ایمیل"
+
+#: views/settings.php:718
+msgid "Effects"
+msgstr "افکت‌ها"
+
+#: views/settings.php:722
+msgid "Move top - Move bottom"
+msgstr "حرکت به بالا - حرکت به پایین"
+
+#: views/settings.php:723
+msgid "Zoom - Zoomed"
+msgstr "زوم - زوم شده"
+
+#: views/settings.php:724
+msgid "Fold - Unfold"
+msgstr "بازکردن - بستن"
+
+#: views/settings.php:759
+msgid "Google Analytics"
+msgstr "گوگل آنالیز"
+
+#: views/settings.php:765
+msgid "Use Google Analytics?"
+msgstr "از گوگل آنالیز استفاده می کنید؟"
+
+#: views/settings.php:799
+msgid "Tracking code"
+msgstr "کد رهگیری"
+
+#: views/sidebar.php:12
+msgid "Plugin Info"
+msgstr "اطلاعات افزونه"
+
+#: views/sidebar.php:22
+msgid "Author"
+msgstr "نویسنده"
+
+#: views/sidebar.php:24
+msgid "Twitter"
+msgstr "توییتر"
+
+#: views/sidebar.php:25
+msgid "GitHub"
+msgstr "گیت‌هاب"
+
+#. translators: free photos url
+#: views/settings.php:445
+msgid "* source <a href=\"%s\" target=\"_blank\">Free Photos</a>"
+msgstr "* منبع <a href=\"%s\" target=\"_blank\">عکس‌های رایگان</a>"
+
+#: views/settings.php:420
+msgid "Upload background"
+msgstr "بارگذاری پس‌زمینه"
+
+#: views/settings.php:406
+msgid "Predefined background"
+msgstr "پس‌زمینه تعریف شده"
+
+#: views/settings.php:405
+msgid "Uploaded background"
+msgstr "پس‌زمینه بارگذاری شده"
+
+#: views/settings.php:433
+msgid "Backgrounds should have 1920x1280 px size."
+msgstr "پس‌زمینه باید 1920 در 1080 پیکسل باشد."
+
+#: views/settings.php:438
+msgid "Choose background"
+msgstr "پس‌زمینه‌ای انتخاب کنید"
+
+#: views/settings.php:394
+msgid "Background"
+msgstr "پس‌زمینه‌"
+
+#: includes/classes/wp-maintenance-mode.php:734
+msgid "Maintenance Mode"
+msgstr "حالت در دست تعمیر"
+
+#: views/settings.php:93
+msgid "Allow Search Bots to bypass maintenance mode?"
+msgstr "به موتورهای جستجو اجازه بده حالت در دست تعمیر را دور بزنند؟"
+
+#. translators: plugin settings url
+#: includes/classes/wp-maintenance-mode.php:462
+msgid "WP Maintenance Mode plugin was relaunched and you MUST revise <a href=\"%s\">settings</a>."
+msgstr "افزونه حالت در دست تعمیر وردپرس مجدد اجرا شد و شما باید مجدد<a href=\"%s\">تنظیمش کنید</a>."
+
+#: views/settings.php:177
+msgid "Do you want to add a link to the dashboard on your maintenance mode page?"
+msgstr "آیا میخواهید پیوندی به پیشخوان در برگه حالت در دست تعمیر افزوده شود؟"
+
+#: views/settings.php:164
+msgid "Do you want to see notices when maintenance mode is activated?"
+msgstr "آیا می خواهید هنگامی که حالت در دست تعمیر فعال است اعلانیه ای در پیشخوان نمایش داده شود؟"
+
+#. translators: plugin settings url
+#: includes/classes/wp-maintenance-mode-admin.php:1008
+msgid "The Maintenance Mode is <strong>active</strong>. Please don't forget to <a href=\"%s\">deactivate</a> as soon as you are done."
+msgstr "حالت در دست تعمیر <strong>فعال</strong> است. لطفاً فراموش نکنید به‌محض انجام کار <a href=\"%s\">غیرفعال</a> کنید."
